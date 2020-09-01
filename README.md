@@ -4,7 +4,7 @@
 
 1. What questions did you ask your stakeholder that helped in breaking down your tasks?
 
-    i.
+    i. There were still some questions that will need to be asked in the near future but he did point us in a direction. Make it our own app.
 
 2. What user stories did you draw from to create your product roadmap? List them below.
 
@@ -22,4 +22,4 @@
 
 5. After what you've learned in this process, given a new product roadmap, how would you approach it differently? What would you change about the way you go about breaking down individual tasks?
 
-    v.
+    v. Something we do too well was to break down specific parts of a task into specified sections. Possibly too broad and could have described some parts with more detail.
